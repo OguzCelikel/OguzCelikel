@@ -1,4 +1,4 @@
-### Hi there, I'm [Ömer]-[website] 👋
+### Hi there, I'm - [Ömer][website] 👋
 
 [![Website](https://img.shields.io/website?label=omercelikel.com&style=for-the-badge&url=https%3A%2F%2Fomercelikel.com)](https://omercelikel.com)
 
