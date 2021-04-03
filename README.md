@@ -1,4 +1,4 @@
-### Hi there, I'm Ömer - [omercelikel][website] 👋
+### Hi there, I'm [Ömer]-[website] 👋
 
 [![Website](https://img.shields.io/website?label=omercelikel.com&style=for-the-badge&url=https%3A%2F%2Fomercelikel.com)](https://omercelikel.com)
 
@@ -9,18 +9,18 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Beginner AI
 - ⚡ Fun fact: I love to cycling 
-
+<!---
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="OmerCelikel Spotify Playing" width="350" />](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc)
-
+--->
 ### Connect with me:
 
 [<img align="left" alt="omercelikel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="omercelikel | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [<img align="left" alt="omercelikel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="omercelikel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="celikelomerr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -77,18 +77,12 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Omer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=OmerCelikel&show_icons=true&hide_border=true" />
-
 </details>
 
 [website]: https://omercelikel.com
-
-
 [youtube]: https://youtube.com/OmerCelikel
-
 [instagram]: https://instagram.com/celikelomerr
-
 [linkedin]: https://linkedin.com/in/omer-celikel
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
