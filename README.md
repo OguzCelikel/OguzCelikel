@@ -37,7 +37,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Yazılıma Nereden Başlanır?](https://www.youtube.com/watch?v=YmbC2ewg0OU)
