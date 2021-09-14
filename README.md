@@ -4,7 +4,7 @@
 
 
 ## I'm a third-year student at the university of MEF!
-- 🔭I'm currently working on CourseBuddies
+- 🔭I'm currently working on MEF CELT Office
 - 🌱 I’m currently learning more about Machine Learning, AI
 - 🥅 2021 Goals: Specializing in Machine Learning
 - ⚡ Fun fact: I love to cycling, editing video 
