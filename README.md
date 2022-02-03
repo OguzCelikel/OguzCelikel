@@ -4,9 +4,9 @@
 
 
 ## I'm a third-year student at the university of MEF!
-- 🔭I'm currently working on MEF CELT Office
-- 🌱 I’m currently learning more about Machine Learning, AI, Swift
-- 🥅 2021 Goals: Specializing in Machine Learning and Creating an APP
+- 🔭 I'm currently working on MEF CELT Office (Educational Technologies Assistant)
+- 🌱 I’m currently learning more about Machine Learning, iOS
+- 🥅 2022 Goals: Specializing in Machine Learning and iOS
 - ⚡ Fun fact: I love to cycling, editing video 
 <!---
 ### Spotify Playing 🎧
