@@ -1,13 +1,14 @@
 ### Hi there, I'm - [Ömer][website] 👋
 
-[![Website](https://img.shields.io/website?label=omercelikel.com&style=for-the-badge&url=https%3A%2F%2Fomercelikel.com)](https://omercelikel.com)
+[![Website](https://img.shields.io/website?label=omercelikel.com&style=for-the-badge&url=https%3A%2F%2Fomercelikel.com)](https://www.omercelikel.com)
 
 
 ## I'm a third-year student at the university of MEF!
-- 🔭 I'm currently working on MEF CELT Office (Educational Technologies Assistant)
-- 🌱 I’m currently learning more about Machine Learning, iOS
+- 🔭 I am currently working as an iOS Developer intern at Doğuş Teknoloji.
+- 🍏 I am currently working as an iOS Developer intern at Doğuş Teknoloji.
+- 🌱 I’m currently learning more about iOS
 - 🥅 2022 Goals: Specializing in Machine Learning and iOS
-- ⚡ Fun fact: I love to cycling, editing video 
+- ⚡ Fun fact: I love to cycling, editing video, cooking 
 <!---
 ### Spotify Playing 🎧
 
@@ -30,7 +31,6 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
 <br />
