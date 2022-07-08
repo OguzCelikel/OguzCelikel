@@ -6,7 +6,7 @@
 ## I'm a third-year student at the university of MEF!
 - 🍏 I am currently working as an iOS Developer intern at Doğuş Teknoloji.
 - 📱 I’m currently learning more about iOS
-- 🎯 2022 Goals: Specializing in Machine Learning and iOS
+- 🎯 2022 Goals: Specializing in iOS
 - ⚡ Fun fact: I love to cycling, editing video, cooking 
 <!---
 ### Spotify Playing 🎧
