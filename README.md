@@ -1,6 +1,6 @@
 ### Hi there, I'm - [Ömer][website] 👋
 
-[![Website](https://img.shields.io/website?label=omercelikel.com&style=for-the-badge&url=https%3A%2F%2Fomercelikel.com)](www.omercelikel.com)
+[![Website](https://img.shields.io/website?label=omercelikel.com&style=for-the-badge&url=https%3A%2F%2Fomercelikel.com)](https://omercelikel.com)
 
 
 ## I'm a third-year student at the university of MEF!
