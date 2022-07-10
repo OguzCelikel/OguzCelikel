@@ -69,6 +69,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Omer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=OmerCelikel&show_icons=true&hide_border=true" />
+  ![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?omercelikel=anuraghazra&theme=dark&show_icons=true)
 </details>
 
 [website]: https://omercelikel.com
