@@ -67,7 +67,7 @@
 ---
 
 <details>
-
+## Detail2
   ![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omercelikel&theme=cobalt&show_icons=true)
 
 </details>
