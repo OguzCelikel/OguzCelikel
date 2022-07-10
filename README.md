@@ -72,6 +72,8 @@
   ![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?omercelikel=anuraghazra&theme=dark&show_icons=true)
 </details>
 
+![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omercelikel&theme=dark&show_icons=true)
+
 [website]: https://omercelikel.com
 [youtube]: https://youtube.com/OmerCelikel
 [instagram]: https://instagram.com/celikelomerr
