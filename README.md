@@ -3,10 +3,9 @@
 [![Website](https://img.shields.io/website?label=omercelikel.com&style=for-the-badge&url=https%3A%2F%2Fomercelikel.com)](https://omercelikel.com)
 
 
-## I'm a third-year student at the university of MEF!
-- 🍏 I am currently working as an iOS Developer intern at Doğuş Teknoloji.
-- 📱 I’m currently learning more about iOS
-- 🎯 2022 Goals: Specializing in iOS
+## 🍏 I am currently working as an iOS Developer intern at Doğuş Teknoloji
+- 📚 I'm a third-year student at the university of MEF!
+- 🎯 I’m currently learning more about iOS
 - ⚡ Fun fact: I love to cycling, editing video, cooking 
 <!---
 ### Spotify Playing 🎧
