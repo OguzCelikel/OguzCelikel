@@ -68,7 +68,8 @@
 
 <details>
 <summary>:zap: GitHub Stats</summary>
-  ![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omercelikel&theme=cobalt&show_icons=true)
+  
+![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omercelikel&theme=cobalt&show_icons=true)
 
 </details>
 
