@@ -4,7 +4,7 @@
 
 
 ##  I am currently working as an iOS Developer @TEB
-- 📚 I'm a third-year student at the university of MEF!
+- 📚 I'm a senior computer engineering student at MEF University!
 - 🎯 I’m currently learning more about iOS
 - ⚡ Fun fact: I love to cycling, editing video, cooking 
 <!---
