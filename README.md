@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=omercelikel.com&style=for-the-badge&url=https%3A%2F%2Fomercelikel.com)](https://omercelikel.com)
 
 
-##  I am currently working as an iOS Developer @TEB
+##  I am currently working as an iOS Developer
 - 📚 I'm a senior computer engineering student at MEF University!
 - 🎯 I’m currently learning more about iOS
 - ⚡ Fun fact: I love to cycling, editing video, cooking 
