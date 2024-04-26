@@ -41,20 +41,6 @@
 
 ---
 
-### 📺 YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Yazılıma Nereden Başlanır?](https://www.youtube.com/watch?v=YmbC2ewg0OU)
-- [Kurye Uygulaması Kodlamak](https://www.youtube.com/watch?v=uWpBMWcPMJk)
-- [Hareketli Toplar (Bouncing Balls)](https://www.youtube.com/watch?v=yR3QtTd9f70)
-- [Adana'dan Miami'ye Gemi Yolculuğu Kodlamak](https://www.youtube.com/watch?v=yJq_3f1ioso)
-- [Yazılım İçin Bilgisayar](https://www.youtube.com/watch?v=rSlsiQ0Um8g)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/OmerCelikel)
-
----
-
 ### 📕 Medium Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
