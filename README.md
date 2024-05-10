@@ -61,7 +61,7 @@
 
 
 
-[website]: https://omercelikel.com
+[website]: [https://omercelikel.github.io/]
 [youtube]: https://youtube.com/OmerCelikel
 [instagram]: https://instagram.com/celikelomerr
 [linkedin]: https://linkedin.com/in/omer-celikel
