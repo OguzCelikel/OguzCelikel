@@ -1,8 +1,6 @@
-### Hi there, I'm - Ömer 👋
-<!---
 ### Hi there, I'm - [Ömer][website] 👋
-[![Website](https://img.shields.io/website?label=omercelikel.com&style=for-the-badge&url=https%3A%2F%2Fomercelikel.com)](https://omercelikel.com)
---->
+[![Website](https://img.shields.io/website?label=omercelikel.com&style=for-the-badge&url=https%3A%2F%2Fomercelikel.com)](https://omercelikel.github.io)
+
 
 ##  I am currently working as an iOS Developer
 <!---
