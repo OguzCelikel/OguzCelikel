@@ -20,7 +20,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:omeroguzcelikel@gmail.com)](mailto:omeroguzcelikel@gmail.com)
 
-<br />
+
 
 ### Languages and Tools:
 [<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/swift/swift.png" />][webdevplaylist]
