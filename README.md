@@ -66,6 +66,6 @@
 [website]: [https://oguzcelikel.github.io/]
 [youtube]: https://youtube.com/OmerCelikel
 <!--[instagram]: https://instagram.com/celikelomerr-->
-[linkedin]: https://linkedin.com/in/omer-celikel
+[linkedin]: https://linkedin.com/in/oguz-celikel
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
