@@ -1,4 +1,4 @@
-### Hi there, I'm - [Ömer][website] 👋
+### Hi there, I'm - [Oguz][website] 👋
 [![Website](https://img.shields.io/website?label=omercelikel.github.io&style=for-the-badge&url=https%3A%2F%2Fomercelikel.github.io)](https://omercelikel.github.io)
 
 
@@ -63,9 +63,9 @@
 
 
 
-[website]: [https://omercelikel.github.io/]
+[website]: [https://oguzcelikel.github.io/]
 [youtube]: https://youtube.com/OmerCelikel
-[instagram]: https://instagram.com/celikelomerr
+<!--[instagram]: https://instagram.com/celikelomerr-->
 [linkedin]: https://linkedin.com/in/omer-celikel
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
