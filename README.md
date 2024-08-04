@@ -1,5 +1,5 @@
 ### Hi there, I'm - [Oguz][website] 👋
-[![Website](https://img.shields.io/website?label=omercelikel.github.io&style=for-the-badge&url=https%3A%2F%2Fomercelikel.github.io)](https://omercelikel.github.io)
+[![Website](https://img.shields.io/website?label=oguzcelikel.github.io&style=for-the-badge&url=https%3A%2F%2Foguzcelikel.github.io)](https://oguzcelikel.github.io)
 
 
 ##  I am currently working as an iOS Developer
