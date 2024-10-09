@@ -12,13 +12,14 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="OmerCelikel Spotify Playing" width="350" />](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc)
 --->
-### Connect with me:
+
+<!---### Connect with me:--->
 
 <!---[<img align="left" alt="omercelikel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]--->
 <!---[<img align="left" alt="omercelikel | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] --->
 <!---[<img align="left" alt="omercelikel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]--->
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:omeroguzcelikel@gmail.com)](mailto:omeroguzcelikel@gmail.com)
+<!--- [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin] --->
+<!---[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:omeroguzcelikel@gmail.com)](mailto:omeroguzcelikel@gmail.com)--->
 
 
 
@@ -43,7 +44,7 @@
 
 ### 📕 Medium Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 - [(“Hello Medium”)](https://celikelomer.medium.com/hello-medium-206e05026067)
 - [University4Society Etkinliği](https://celikelomer.medium.com/university4society-etkinli%C4%9Fi-93c30e79e52f)
 - [NumPy'dan Notlar](https://celikelomer.medium.com/numpydan-notlar-42448016d0fe)
